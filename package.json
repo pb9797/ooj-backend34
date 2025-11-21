@@ -3,3 +3,7 @@
   "version": "1.0.0",
   "main": "server.js"
 }
+"dependencies": {
+  "aws-sdk": "^2.1484.0",
+  ...
+}
